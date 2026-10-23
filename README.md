@@ -62,19 +62,7 @@
 
 </div>
 
----
 
-### 🏆 Competitive Programming & Profiles
-
-<p align="center">
-  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://codeforces.com"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://www.codechef.com"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-  <a href="https://www.hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://practice.geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-</p>
-
----
 
 ### 🚀 Featured Projects
 
@@ -120,16 +108,15 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 Total Contributions & Activity
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=saiyam-jain-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="Saiyam's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiyam-jain-dev&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saiyam-jain-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Saiyam's Total Contributions & GitHub Stats" />
 
-  <br />
+  <br /><br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiyam-jain-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://ghchart.rshah.org/38bdf8/saiyam-jain-dev" alt="Saiyam's GitHub Contributions Chart" width="100%" />
 
 </div>
 
