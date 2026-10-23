@@ -1,51 +1,82 @@
 <div align="center">
 
-  # Hey there, I'm Saiyam Jain 👋
+  # ⚡ Saiyam Jain
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%26+C%2B%2B+Enthusiast+%E2%9A%A1;Building+Local-First+Web+Apps+%F0%9F%9A%80;AI+Tools+%26+Interactive+Systems+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Competitive+Coder+%7C+C%2B%2B+%E2%80%A2+Java+%E2%80%A2+Python+%E2%9A%A1;Full-Stack+Engineer+%7C+Modern+React+%26+Next.js+%E2%9A%9B%EF%B8%8F;Generative+AI+%26+LLM+Application+Builder+%F0%9F%A4%96;Test+Automation+Engineer+%7C+Selenium+%26+E2E+%F0%9F%A7%AA;Crafting+Fast%2C+Local-First+Software+%F0%9F%9A%80" alt="Saiyam Jain Typing Banner" />
   </a>
 
   <p align="center">
-    <strong>Crafting high-performance web applications, intelligent local-first tools, and scalable software solutions.</strong>
+    <strong>Full Stack Engineer • Competitive Programmer • Generative AI & Automation Specialist</strong>
   </p>
 
   <p align="center">
-    <a href="https://github.com/saiyam-jain-dev"><img src="https://img.shields.io/github/followers/saiyam-jain-dev?label=Followers&style=flat-square&color=22c55e" alt="Followers" /></a>
-    <a href="https://x.com/_Samdev_"><img src="https://img.shields.io/badge/X%20(Twitter)-%40__Samdev__-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
-    <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-orange?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+    <a href="https://github.com/saiyam-jain-dev"><img src="https://img.shields.io/github/followers/saiyam-jain-dev?label=GitHub%20Followers&style=for-the-badge&color=0ea5e9&logo=github" alt="Followers" /></a>
+    <a href="https://x.com/_Samdev_"><img src="https://img.shields.io/badge/X%20(Twitter)-%40__Samdev__-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+    <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-f97316?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
 </div>
 
 ---
 
-### 🌟 About Me
+### 🌐 Core Engineering Pillars
 
-- 🔭 **Currently Building:** High-performance, browser-first tools, AI video engines, and full-stack web platforms.
-- 💡 **Core Strengths:** Data Structures & Algorithms, Modern Web Architecture (`React`, `Node.js`, `Express`), Systems (`C++`), and Local-First Engineering.
-- 🚀 **Philosophy:** Great software should be fast, private by default, and accessible directly in the browser without friction.
-- ⚡ **Fun Fact:** I love taking heavy desktop-grade workflows and re-architecting them to run 100% locally in client-side WebAssembly and JavaScript!
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Competitive Programming & DSA</h4>
+      <p>Passionate algorithmist solving complex computational problems with optimal time & space complexity. Extensive experience in dynamic programming, graph theory, trees, and number theory using <strong>C++</strong>, <strong>Java</strong>, and <strong>Python</strong>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 Generative AI & Intelligent Systems</h4>
+      <p>Building next-gen applications powered by modern LLMs (Gemini, OpenAI, Claude), prompt engineering, retrieval-augmented generation (RAG), and client-side AI/OCR models (Tesseract.js, WebAssembly).</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚛️ Modern React & Frontend Architecture</h4>
+      <p>Designing fluid, accessible, and high-performance user interfaces with <strong>React 18/19</strong>, <strong>Next.js</strong>, <strong>Vite</strong>, and <strong>Tailwind CSS</strong>, with expertise in HTML5 Canvas, responsive layouts, and local-first architectures.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧪 Test Automation & Quality Assurance</h4>
+      <p>Engineering automated testing suites with <strong>Selenium WebDriver</strong>, <strong>Playwright</strong>, and <strong>Puppeteer</strong>. Implementing robust E2E regression pipelines, unit tests, and cross-browser test frameworks.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Comprehensive Tech Stack
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
-| **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Core Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **Generative AI & ML** | ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Tesseract OCR](https://img.shields.io/badge/Tesseract.js-5C2D91?style=flat-square&logo=tesseract&logoColor=white) |
+| **Frontend & React** | ![React](https://img.shields.io/badge/React_18%2F19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5 Canvas](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white) ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white) |
+| **Test Automation & QA** | ![Selenium](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Backend & Databases** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white) |
+| **DevOps & Cloud** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux_Bash-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 </div>
 
 ---
 
-### 🚀 Featured Highlights
+### 🏆 Competitive Programming & Profiles
+
+<p align="center">
+  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codeforces.com"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.codechef.com"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://www.hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://practice.geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+</p>
+
+---
+
+### 🚀 Featured Projects
 
 <table>
   <tr>
@@ -55,41 +86,41 @@
         <a href="https://saiyam-jain-dev.github.io/pdf-reader-viewer-rea/"><strong>🌐 Live Demo</strong></a> • 
         <a href="https://github.com/saiyam-jain-dev/pdf-reader-viewer-rea"><strong>📂 GitHub</strong></a>
       </p>
-      <p>A modern local-first vector PDF reader and editor. Edit selectable text directly in place, scan images with client-side Tesseract OCR, insert annotations and digital signatures, and export high-fidelity vector copies 100% in the browser.</p>
-      <p><code>React</code> <code>Vite</code> <code>pdfjs-dist</code> <code>pdf-lib</code> <code>Tesseract.js</code></p>
+      <p>Local-first vector PDF reader & editor. Features in-place click-to-edit text with automatic font/weight/color preservation, client-side Tesseract.js OCR for scanned docs, signature placement, annotations, and lossless vector PDF export.</p>
+      <p><code>React</code> <code>Vite</code> <code>pdfjs-dist</code> <code>pdf-lib</code> <code>Tesseract.js (OCR)</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎬 <a href="https://github.com/saiyam-jain-dev/ReelAI---Free-Video-Maker-">ReelAI Clip Maker</a></h3>
+      <h3 align="center">🎬 <a href="https://github.com/saiyam-jain-dev/ReelAI---Free-Video-Maker-">ReelAI — AI Video Generator</a></h3>
       <p align="center">
         <a href="https://github.com/saiyam-jain-dev/ReelAI---Free-Video-Maker-"><strong>📂 GitHub Repository</strong></a>
       </p>
-      <p>AI-assisted YouTube video trimmer and short-form clip generator. Select trim points on an interactive timeline, customize framing and watermarks, and export clips quickly with local-first processing.</p>
-      <p><code>React</code> <code>AI Tooling</code> <code>Media Processing</code> <code>Interactive Timeline</code></p>
+      <p>AI-assisted video clip maker. Paste YouTube links, set interactive trim boundaries, format aspect ratios for Reels/Shorts, and generate shareable video clips with automated watermarks and local-first rendering.</p>
+      <p><code>React</code> <code>Generative AI</code> <code>Media Processing</code> <code>Interactive UI</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧭 <a href="https://github.com/saiyam-jain-dev/Pathfinder-Visualiser">Pathfinder Visualizer</a></h3>
+      <h3 align="center">🧭 <a href="https://github.com/saiyam-jain-dev/Pathfinder-Visualiser">Pathfinder Algorithm Visualizer</a></h3>
       <p align="center">
         <a href="https://github.com/saiyam-jain-dev/Pathfinder-Visualiser"><strong>📂 GitHub Repository</strong></a>
       </p>
-      <p>Interactive algorithm sandbox that visually demonstrates graph traversal and shortest-path algorithms including Dijkstra's Algorithm, A* Search, Breadth-First Search (BFS), and Depth-First Search (DFS).</p>
-      <p><code>JavaScript</code> <code>Data Structures</code> <code>Graph Theory</code> <code>CSS Animations</code></p>
+      <p>Interactive algorithm visualizer implementing graph traversal & shortest-path algorithms: Dijkstra's Algorithm, A* Search, Breadth-First Search (BFS), and Depth-First Search (DFS) with custom maze generation.</p>
+      <p><code>Competitive Programming</code> <code>Data Structures</code> <code>Graph Algorithms</code> <code>JavaScript</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💬 <a href="https://github.com/saiyam-jain-dev/chitchat">ChitChat</a></h3>
+      <h3 align="center">💬 <a href="https://github.com/saiyam-jain-dev/chitchat">ChitChat Real-Time App</a></h3>
       <p align="center">
         <a href="https://github.com/saiyam-jain-dev/chitchat"><strong>📂 GitHub Repository</strong></a>
       </p>
-      <p>Real-time full-stack chat application featuring instant bidirectional messaging, room management, typing indicators, and user presence synchronization.</p>
-      <p><code>Node.js</code> <code>Express</code> <code>Socket.io</code> <code>HTML5 / CSS3</code></p>
+      <p>Full-stack bidirectional real-time chat application with instant WebSocket synchronization, custom chatrooms, user presence detection, and automated integration test coverage.</p>
+      <p><code>Node.js</code> <code>Express</code> <code>Socket.io</code> <code>Full Stack</code> <code>E2E Testing</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
 
@@ -106,13 +137,13 @@
 
 <div align="center">
 
-  ### 📬 Connect With Me
+  ### 📬 Let's Connect & Collaborate
 
   [![Twitter](https://img.shields.io/badge/X%20(Twitter)-%40__Samdev__-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_Samdev_)
   [![GitHub](https://img.shields.io/badge/GitHub-saiyam--jain--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saiyam-jain-dev)
 
   <p align="center">
-    <i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i>
+    <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
   </p>
 
 </div>
