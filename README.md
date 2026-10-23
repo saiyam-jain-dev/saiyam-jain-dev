@@ -112,11 +112,11 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=saiyam-jain-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Saiyam's Total Contributions & GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saiyam-jain-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Saiyam's Total Contributions & GitHub Stats" />
 
   <br /><br />
 
-  <img src="https://ghchart.rshah.org/38bdf8/saiyam-jain-dev" alt="Saiyam's GitHub Contributions Chart" width="100%" />
+  <img src="https://ghchart.rshah.org/2ea44f/saiyam-jain-dev" alt="Saiyam's GitHub Contributions Chart" width="100%" />
 
 </div>
 
