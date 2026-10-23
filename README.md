@@ -108,19 +108,6 @@
 
 ---
 
-### 📊 Total Contributions & Activity
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=saiyam-jain-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Saiyam's Total Contributions & GitHub Stats" />
-
-  <br /><br />
-
-  <img src="https://ghchart.rshah.org/2ea44f/saiyam-jain-dev" alt="Saiyam's GitHub Contributions Chart" width="100%" />
-
-</div>
-
----
 
 <div align="center">
 
