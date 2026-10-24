@@ -109,6 +109,31 @@
 ---
 
 
+### 🌟 Open Source Contributions
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h4>🔍 <a href="https://github.com/morluto/rea">morluto/rea</a> — <em>Reverse Engineer Anything</em></h4>
+      <p>
+        <a href="https://github.com/morluto/rea/pull/6973">
+          <img src="https://img.shields.io/badge/PR_%236973-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #6973 Merged" />
+        </a>
+        <img src="https://img.shields.io/badge/Erlang%20BEAM-Analysis%20Views-38bdf8?style=flat-square" alt="Erlang BEAM" />
+        <img src="https://img.shields.io/badge/Acceptance%20Tests-Vitest%20%26%20MCP-22c55e?style=flat-square" alt="Tests" />
+      </p>
+      <p>
+        Contributed to <strong>REA</strong>, a local-first reverse engineering engine with shared CLI and Model Context Protocol (MCP) workflows. Extended acceptance regression test coverage for BEAM analysis views (lambda name filtering and chunk exclusion handling) and clarified chunk tag & atom resolution contracts.
+      </p>
+      <p>
+        <code>TypeScript</code> <code>Erlang BEAM</code> <code>MCP (Model Context Protocol)</code> <code>Vitest</code> <code>CLI</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 <div align="center">
 
   ### 📬 Let's Connect & Collaborate
