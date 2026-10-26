@@ -119,22 +119,26 @@
         <a href="https://github.com/SeleniumHQ/selenium/pull/18239">
           <img src="https://img.shields.io/badge/PR_%2318239-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #18239 Merged" />
         </a>
+        <a href="https://github.com/SeleniumHQ/selenium/pull/18238">
+          <img src="https://img.shields.io/badge/PR_%2318238-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #18238 Merged" />
+        </a>
         <a href="https://github.com/SeleniumHQ/selenium/pull/18240">
           <img src="https://img.shields.io/badge/PR_%2318240-Under_Review-238636?style=flat-square&logo=github&logoColor=white" alt="PR #18240 Under Review" />
         </a>
         <img src="https://img.shields.io/badge/Python-WebDriver%20Core-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python WebDriver" />
+        <img src="https://img.shields.io/badge/RFC%206265-HTTP%20State%20Management-f97316?style=flat-square" alt="RFC 6265" />
         <img src="https://img.shields.io/badge/WebDriver%20BiDi-Serialization-00599C?style=flat-square" alt="WebDriver BiDi" />
-        <img src="https://img.shields.io/badge/Tests-104%2F104%20Passing-22c55e?style=flat-square" alt="Tests Passing" />
       </p>
       <p>
         Core contributor to the official <strong>Selenium</strong> browser automation framework:
         <ul>
-          <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18239">PR #18239</a> (Merged into <code>trunk</code>)</strong>: Hardened <code>ErrorHandler.check_response()</code> in Python WebDriver against <code>TypeError</code> ("argument of type 'NoneType' is not iterable") and unhandled <code>KeyError</code> crashes when remote browser drivers return <code>None</code> or omit error dictionaries. Merged by core maintainer Cory Goldberg.</li>
+          <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18239">PR #18239</a> (Merged into <code>trunk</code>)</strong>: Hardened <code>ErrorHandler.check_response()</code> in Python WebDriver against <code>TypeError</code> ("argument of type 'NoneType' is not iterable") and unhandled <code>KeyError</code> crashes when remote browser drivers return <code>None</code> or omit error dictionaries. Merged by maintainer Cory Goldberg.</li>
+          <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18238">PR #18238</a> (Merged into <code>trunk</code>)</strong>: Aligned <code>APIRequestContext._cookie_matches()</code> domain and path matching with the RFC 6265 specification, implementing case-insensitive matching, optional leading dot handling across subdomains (§5.1.3), and trailing slash path resolution (§5.1.4). Merged by maintainer Cory Goldberg.</li>
           <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18240">PR #18240</a> (Under Review)</strong>: Strengthened W3C WebDriver BiDi specification conformance by implementing strict null list element rejection in both inbound and outbound serialization (<code>_bidi/serialization.py</code>), with 104/104 passing tests and clean Ruff linting.</li>
         </ul>
       </p>
       <p>
-        <code>Python</code> <code>Selenium WebDriver</code> <code>W3C WebDriver BiDi</code> <code>Ruff</code> <code>PyTest</code> <code>Automation Testing</code>
+        <code>Python</code> <code>Selenium WebDriver</code> <code>RFC 6265</code> <code>W3C WebDriver BiDi</code> <code>Ruff</code> <code>PyTest</code> <code>Automation Testing</code>
       </p>
     </td>
   </tr>
