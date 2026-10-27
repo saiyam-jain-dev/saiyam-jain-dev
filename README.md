@@ -11,7 +11,8 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/saiyam-jain-dev"><img src="https://img.shields.io/github/followers/saiyam-jain-dev?label=GitHub%20Followers&style=for-the-badge&color=0ea5e9&logo=github" alt="Followers" /></a>
+    <a href="https://saiyamjain.in"><img src="https://img.shields.io/badge/Portfolio-saiyamjain.in-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://github.com/saiyam-jain-dev"><img src="https://img.shields.io/github/followers/saiyam-jain-dev?label=GitHub%20Followers&style=for-the-badge&color=10b981&logo=github" alt="Followers" /></a>
     <a href="https://x.com/_Samdev_"><img src="https://img.shields.io/badge/X%20(Twitter)-%40__Samdev__-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
     <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-f97316?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
@@ -112,7 +113,41 @@
 ### 🌟 Open Source Contributions
 
 <table>
-   <tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h4>⚛️ <a href="https://github.com/react/react-native">facebook/react-native</a> — <em>Meta Open Source</em></h4>
+      <p>
+        <a href="https://github.com/react/react-native/pull/59458">
+          <img src="https://img.shields.io/badge/PR_%2359458-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #59458 Merged" />
+        </a>
+        <a href="https://github.com/react/react-native/pull/59459">
+          <img src="https://img.shields.io/badge/PR_%2359459-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #59459 Merged" />
+        </a>
+        <a href="https://github.com/react/react-native/pull/59460">
+          <img src="https://img.shields.io/badge/PR_%2359460-Under_Review-238636?style=flat-square&logo=github&logoColor=white" alt="PR #59460 Under Review" />
+        </a>
+        <a href="https://github.com/react/react-native/pull/59457">
+          <img src="https://img.shields.io/badge/PR_%2359457-Under_Review-238636?style=flat-square&logo=github&logoColor=white" alt="PR #59457 Under Review" />
+        </a>
+        <img src="https://img.shields.io/badge/Meta-Open%20Source-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta OSS" />
+        <img src="https://img.shields.io/badge/React%20Native-Core%20Runtime-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native Core" />
+        <img src="https://img.shields.io/badge/Virtualized-Lists-f59e0b?style=flat-square" alt="Virtualized Lists" />
+      </p>
+      <p>
+        Official contributor to Meta's flagship <strong>React Native</strong> framework:
+        <ul>
+          <li><strong><a href="https://github.com/react/react-native/pull/59458">PR #59458</a> (Merged into <code>trunk</code>)</strong>: Corrected broken and stale package repository URLs across core React Native package descriptors and documentation (<a href="https://github.com/react/react-native/commit/4420343defbef0b90b85710500c6930d7bc21b0a"><code>4420343</code></a>). Imported via Meta internal Differential <code>D127597755</code>, validated through Meta's automated build infrastructure, and merged directly into production trunk.</li>
+          <li><strong><a href="https://github.com/react/react-native/pull/59459">PR #59459</a> (Merged into <code>trunk</code>)</strong>: Corrected typos in user-facing runtime invariant assertion messages in <code>virtualized-lists</code> (<a href="https://github.com/react/react-native/commit/866034f97c1c80107fe5fd7a9dce33eb338fe238"><code>866034f</code></a>). Imported via Meta internal Differential <code>D127799190</code> and merged into trunk by Meta engineer Nicola Corti.</li>
+          <li><strong><a href="https://github.com/react/react-native/pull/59460">PR #59460</a> (Under Review)</strong>: Engineered missing unit test coverage for <code>CellRenderMask.numCells()</code> and equality validation in <code>virtualized-lists</code>.</li>
+          <li><strong><a href="https://github.com/react/react-native/pull/59457">PR #59457</a> (Under Review)</strong>: Rectified JSDoc typing inconsistencies and parameters in list windowing algorithms.</li>
+        </ul>
+      </p>
+      <p>
+        <code>React Native</code> <code>JavaScript</code> <code>Flow</code> <code>Meta OSS</code> <code>Virtualized Lists</code> <code>Jest</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="100%" valign="top">
       <h4>🌐 <a href="https://github.com/SeleniumHQ/selenium">SeleniumHQ/selenium</a> — <em>Official Browser Automation Framework</em></h4>
       <p>
@@ -125,6 +160,12 @@
         <a href="https://github.com/SeleniumHQ/selenium/pull/18240">
           <img src="https://img.shields.io/badge/PR_%2318240-Under_Review-238636?style=flat-square&logo=github&logoColor=white" alt="PR #18240 Under Review" />
         </a>
+        <a href="https://github.com/SeleniumHQ/selenium/pull/18243">
+          <img src="https://img.shields.io/badge/PR_%2318243-Under_Review-238636?style=flat-square&logo=github&logoColor=white" alt="PR #18243 Under Review" />
+        </a>
+        <a href="https://github.com/SeleniumHQ/selenium/pull/18244">
+          <img src="https://img.shields.io/badge/PR_%2318244-Under_Review-238636?style=flat-square&logo=github&logoColor=white" alt="PR #18244 Under Review" />
+        </a>
         <img src="https://img.shields.io/badge/Python-WebDriver%20Core-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python WebDriver" />
         <img src="https://img.shields.io/badge/RFC%206265-HTTP%20State%20Management-f97316?style=flat-square" alt="RFC 6265" />
         <img src="https://img.shields.io/badge/WebDriver%20BiDi-Serialization-00599C?style=flat-square" alt="WebDriver BiDi" />
@@ -132,9 +173,10 @@
       <p>
         Core contributor to the official <strong>Selenium</strong> browser automation framework:
         <ul>
-          <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18239">PR #18239</a> (Merged into <code>trunk</code>)</strong>: Hardened <code>ErrorHandler.check_response()</code> in Python WebDriver against <code>TypeError</code> ("argument of type 'NoneType' is not iterable") and unhandled <code>KeyError</code> crashes when remote browser drivers return <code>None</code> or omit error dictionaries. Merged by maintainer Cory Goldberg.</li>
-          <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18238">PR #18238</a> (Merged into <code>trunk</code>)</strong>: Aligned <code>APIRequestContext._cookie_matches()</code> domain and path matching with the RFC 6265 specification, implementing case-insensitive matching, optional leading dot handling across subdomains (§5.1.3), and trailing slash path resolution (§5.1.4). Merged by maintainer Cory Goldberg.</li>
+          <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18239">PR #18239</a> (Merged into <code>trunk</code>)</strong>: Hardened <code>ErrorHandler.check_response()</code> in Python WebDriver against <code>TypeError</code> ("argument of type 'NoneType' is not iterable") and unhandled <code>KeyError</code> crashes when remote browser drivers return <code>None</code> or omit error dictionaries (<a href="https://github.com/SeleniumHQ/selenium/commit/652351eaef7a06da2e9fc9e32a688b75373a25cb"><code>652351e</code></a>). Merged by maintainer Cory Goldberg.</li>
+          <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18238">PR #18238</a> (Merged into <code>trunk</code>)</strong>: Aligned <code>APIRequestContext._cookie_matches()</code> domain and path matching with the RFC 6265 specification, implementing case-insensitive matching, optional leading dot handling across subdomains (§5.1.3), and trailing slash path resolution (§5.1.4) (<a href="https://github.com/SeleniumHQ/selenium/commit/e21558f2c7547ce42ed5db2c9ab15fbca8de2b84"><code>e21558f</code></a>). Merged by maintainer Cory Goldberg.</li>
           <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18240">PR #18240</a> (Under Review)</strong>: Strengthened W3C WebDriver BiDi specification conformance by implementing strict null list element rejection in both inbound and outbound serialization (<code>_bidi/serialization.py</code>), with 104/104 passing tests and clean Ruff linting.</li>
+          <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18243">PR #18243</a> &amp; <a href="https://github.com/SeleniumHQ/selenium/pull/18244">PR #18244</a> (Under Review)</strong>: Added Python WebDriver <code>__hash__</code> contract comparisons and explicit <code>stacklevel=2</code> warning diagnostics.</li>
         </ul>
       </p>
       <p>
@@ -149,14 +191,82 @@
         <a href="https://github.com/morluto/rea/pull/6973">
           <img src="https://img.shields.io/badge/PR_%236973-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #6973 Merged" />
         </a>
+        <a href="https://github.com/morluto/rea/pull/7097">
+          <img src="https://img.shields.io/badge/PR_%237097-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #7097 Merged" />
+        </a>
+        <a href="https://github.com/morluto/rea/pull/7100">
+          <img src="https://img.shields.io/badge/PR_%237100-Under_Review-238636?style=flat-square&logo=github&logoColor=white" alt="PR #7100 Under Review" />
+        </a>
+        <a href="https://github.com/morluto/rea/pull/7305">
+          <img src="https://img.shields.io/badge/PR_%237305-Under_Review-238636?style=flat-square&logo=github&logoColor=white" alt="PR #7305 Under Review" />
+        </a>
         <img src="https://img.shields.io/badge/Erlang%20BEAM-Analysis%20Views-38bdf8?style=flat-square" alt="Erlang BEAM" />
         <img src="https://img.shields.io/badge/Acceptance%20Tests-Vitest%20%26%20MCP-22c55e?style=flat-square" alt="Tests" />
       </p>
       <p>
-        Contributed to <strong>REA</strong>, a local-first reverse engineering engine with shared CLI and Model Context Protocol (MCP) workflows. Extended acceptance regression test coverage for BEAM analysis views (lambda name filtering and chunk exclusion handling) and clarified chunk tag & atom resolution contracts.
+        Contributed to <strong>REA</strong>, a local-first reverse engineering engine with shared CLI and Model Context Protocol (MCP) workflows:
+        <ul>
+          <li><strong><a href="https://github.com/morluto/rea/pull/6973">PR #6973</a> (Merged)</strong>: Extended acceptance regression test coverage for BEAM analysis views (lambda name filtering and chunk exclusion handling) and clarified chunk tag & atom resolution contracts (<a href="https://github.com/morluto/rea/commit/ddde7276c445fb42ea31952493dacc2a38b7efa0"><code>ddde727</code></a>).</li>
+          <li><strong><a href="https://github.com/morluto/rea/pull/7097">PR #7097</a> (Merged)</strong>: Fixed browser export path validation, reporting non-absolute export paths directly at their input field rather than triggering unhandled UI exceptions (<a href="https://github.com/morluto/rea/commit/097cd2c9881e382ed8ef870f7a6fc7e0c40ca640"><code>097cd2c</code></a>).</li>
+          <li><strong><a href="https://github.com/morluto/rea/pull/7100">PR #7100</a> &amp; <a href="https://github.com/morluto/rea/pull/7305">PR #7305</a> (Under Review)</strong>: Expanded acceptance test coverage across Rust package filtering and DeviceTree node hierarchy summaries.</li>
+        </ul>
       </p>
       <p>
         <code>TypeScript</code> <code>Erlang BEAM</code> <code>MCP (Model Context Protocol)</code> <code>Vitest</code> <code>CLI</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h4>📐 <a href="https://github.com/sympy/sympy">sympy/sympy</a> — <em>Computer Algebra System in Pure Python</em></h4>
+      <p>
+        <a href="https://github.com/sympy/sympy/pull/30851">
+          <img src="https://img.shields.io/badge/PR_%2330851-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #30851 Merged" />
+        </a>
+        <img src="https://img.shields.io/badge/Python-Math%20Core-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Core" />
+        <img src="https://img.shields.io/badge/Code%20Generation-Mathematica-ED1C24?style=flat-square" alt="Mathematica CodeGen" />
+      </p>
+      <p>
+        Contributed to <strong>SymPy</strong>:
+        <ul>
+          <li><strong><a href="https://github.com/sympy/sympy/pull/30851">PR #30851</a> (Merged into <code>master</code>)</strong>: Fixed code generation in the Mathematica code printer for <code>Heaviside</code>, <code>DiracDelta</code>, and <code>elliptic_f</code> special functions to emit valid syntax conformant with Wolfram Mathematica language specifications (<a href="https://github.com/sympy/sympy/commit/dbae2c1ec7b02cd751fffd4a32e1858c894ad69a"><code>dbae2c1</code></a>).</li>
+        </ul>
+      </p>
+      <p>
+        <code>Python</code> <code>SymPy</code> <code>Computer Algebra</code> <code>Code Generation</code> <code>Mathematica</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h4>⚡ Upstream Core Contributions in Progress</h4>
+      <p>
+        <a href="https://github.com/python/cpython/pull/160642">
+          <img src="https://img.shields.io/badge/CPython_PR_%23160642-Open-238636?style=flat-square&logo=python&logoColor=white" alt="CPython PR #160642" />
+        </a>
+        <a href="https://github.com/python/cpython/pull/160641">
+          <img src="https://img.shields.io/badge/CPython_PR_%23160641-Open-238636?style=flat-square&logo=python&logoColor=white" alt="CPython PR #160641" />
+        </a>
+        <a href="https://github.com/jestjs/jest/pull/16521">
+          <img src="https://img.shields.io/badge/Jest_PR_%2316521-Open-238636?style=flat-square&logo=jest&logoColor=white" alt="Jest PR #16521" />
+        </a>
+        <a href="https://github.com/jestjs/jest/pull/16520">
+          <img src="https://img.shields.io/badge/Jest_PR_%2316520-Open-238636?style=flat-square&logo=jest&logoColor=white" alt="Jest PR #16520" />
+        </a>
+        <a href="https://github.com/TheAlgorithms/Python/pull/15645">
+          <img src="https://img.shields.io/badge/TheAlgorithms_PR_%2315645-Open-238636?style=flat-square&logo=python&logoColor=white" alt="TheAlgorithms PR #15645" />
+        </a>
+      </p>
+      <p>
+        Active upstream engineering across key developer tooling ecosystems:
+        <ul>
+          <li><strong><a href="https://github.com/python/cpython/pull/160642">CPython PR #160642</a></strong>: Fixed <code>StreamReader.read()</code> silently dropping characters during stream decoding errors (gh-160309).</li>
+          <li><strong><a href="https://github.com/python/cpython/pull/160641">CPython PR #160641</a></strong>: Fixed <code>csv.Dialect.__replace__()</code> losing custom dialect attributes (gh-160106).</li>
+          <li><strong><a href="https://github.com/jestjs/jest/pull/16521">Jest PR #16521</a> &amp; <a href="https://github.com/jestjs/jest/pull/16520">#16520</a></strong>: Worker color isolation and config file discovery resolution.</li>
+        </ul>
+      </p>
+      <p>
+        <code>C</code> <code>Python</code> <code>TypeScript</code> <code>Jest</code> <code>AsyncIO</code> <code>CSV Internals</code>
       </p>
     </td>
   </tr>
