@@ -157,26 +157,31 @@
         <a href="https://github.com/SeleniumHQ/selenium/pull/18238">
           <img src="https://img.shields.io/badge/PR_%2318238-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #18238 Merged" />
         </a>
-        <a href="https://github.com/SeleniumHQ/selenium/pull/18240">
-          <img src="https://img.shields.io/badge/PR_%2318240-Under_Review-238636?style=flat-square&logo=github&logoColor=white" alt="PR #18240 Under Review" />
+        <a href="https://github.com/SeleniumHQ/selenium/pull/18244">
+          <img src="https://img.shields.io/badge/PR_%2318244-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #18244 Merged" />
         </a>
         <a href="https://github.com/SeleniumHQ/selenium/pull/18243">
-          <img src="https://img.shields.io/badge/PR_%2318243-Under_Review-238636?style=flat-square&logo=github&logoColor=white" alt="PR #18243 Under Review" />
+          <img src="https://img.shields.io/badge/PR_%2318243-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #18243 Merged" />
         </a>
-        <a href="https://github.com/SeleniumHQ/selenium/pull/18244">
-          <img src="https://img.shields.io/badge/PR_%2318244-Under_Review-238636?style=flat-square&logo=github&logoColor=white" alt="PR #18244 Under Review" />
+        <a href="https://github.com/SeleniumHQ/selenium/pull/18237">
+          <img src="https://img.shields.io/badge/PR_%2318237-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #18237 Merged" />
+        </a>
+        <a href="https://github.com/SeleniumHQ/selenium/pull/18240">
+          <img src="https://img.shields.io/badge/PR_%2318240-Under_Review-238636?style=flat-square&logo=github&logoColor=white" alt="PR #18240 Under Review" />
         </a>
         <img src="https://img.shields.io/badge/Python-WebDriver%20Core-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python WebDriver" />
         <img src="https://img.shields.io/badge/RFC%206265-HTTP%20State%20Management-f97316?style=flat-square" alt="RFC 6265" />
         <img src="https://img.shields.io/badge/WebDriver%20BiDi-Serialization-00599C?style=flat-square" alt="WebDriver BiDi" />
       </p>
       <p>
-        Core contributor to the official <strong>Selenium</strong> browser automation framework:
+        Core contributor to the official <strong>Selenium</strong> browser automation framework with 5 pull requests merged directly into trunk by maintainer Corey Goldberg:
         <ul>
-          <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18239">PR #18239</a> (Merged into <code>trunk</code>)</strong>: Hardened <code>ErrorHandler.check_response()</code> in Python WebDriver against <code>TypeError</code> ("argument of type 'NoneType' is not iterable") and unhandled <code>KeyError</code> crashes when remote browser drivers return <code>None</code> or omit error dictionaries (<a href="https://github.com/SeleniumHQ/selenium/commit/652351eaef7a06da2e9fc9e32a688b75373a25cb"><code>652351e</code></a>). Merged by maintainer Cory Goldberg.</li>
-          <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18238">PR #18238</a> (Merged into <code>trunk</code>)</strong>: Aligned <code>APIRequestContext._cookie_matches()</code> domain and path matching with the RFC 6265 specification, implementing case-insensitive matching, optional leading dot handling across subdomains (§5.1.3), and trailing slash path resolution (§5.1.4) (<a href="https://github.com/SeleniumHQ/selenium/commit/e21558f2c7547ce42ed5db2c9ab15fbca8de2b84"><code>e21558f</code></a>). Merged by maintainer Cory Goldberg.</li>
-          <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18240">PR #18240</a> (Under Review)</strong>: Strengthened W3C WebDriver BiDi specification conformance by implementing strict null list element rejection in both inbound and outbound serialization (<code>_bidi/serialization.py</code>), with 104/104 passing tests and clean Ruff linting.</li>
-          <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18243">PR #18243</a> &amp; <a href="https://github.com/SeleniumHQ/selenium/pull/18244">PR #18244</a> (Under Review)</strong>: Added Python WebDriver <code>__hash__</code> contract comparisons and explicit <code>stacklevel=2</code> warning diagnostics.</li>
+          <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18239">PR #18239</a> (Merged into <code>trunk</code>)</strong>: Hardened <code>ErrorHandler.check_response()</code> in Python WebDriver against <code>TypeError</code> ("argument of type 'NoneType' is not iterable") and unhandled <code>KeyError</code> crashes when remote browser drivers return <code>None</code> or omit error dictionaries (<a href="https://github.com/SeleniumHQ/selenium/commit/652351eaef7a06da2e9fc9e32a688b75373a25cb"><code>652351e</code></a>).</li>
+          <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18238">PR #18238</a> (Merged into <code>trunk</code>)</strong>: Aligned <code>APIRequestContext._cookie_matches()</code> domain and path matching with the RFC 6265 specification, implementing case-insensitive matching, optional leading dot handling across subdomains (§5.1.3), and trailing slash path resolution (§5.1.4) (<a href="https://github.com/SeleniumHQ/selenium/commit/e21558f2c7547ce42ed5db2c9ab15fbca8de2b84"><code>e21558f</code></a>).</li>
+          <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18244">PR #18244</a> (Merged into <code>trunk</code>)</strong>: Added explicit <code>stacklevel=2</code> across remaining <code>warnings.warn()</code> calls so deprecation warnings accurately point to caller code, enabling project-wide Ruff <code>B028</code> enforcement (<a href="https://github.com/SeleniumHQ/selenium/commit/618cb92fe50d8257ab1cb3cecaf0273a0ba3fc78"><code>618cb92</code></a>).</li>
+          <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18243">PR #18243</a> (Merged into <code>trunk</code>)</strong>: Implemented <code>__hash__</code> and explicit <code>ScriptKey</code> comparison contracts so pinned script identifiers can be stored in hash sets and mappings (<a href="https://github.com/SeleniumHQ/selenium/commit/ee6af75226f4d4180c7e50b879eb2dcf3b68aaf8"><code>ee6af75</code></a>).</li>
+          <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18237">PR #18237</a> (Merged into <code>trunk</code>)</strong>: Corrected <code>ssl_proxy</code> descriptor usage during <code>Capabilities</code> initialization (<a href="https://github.com/SeleniumHQ/selenium/commit/10141c5af27c362b21f45add74b7052430704f30"><code>10141c5</code></a>).</li>
+          <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18240">PR #18240</a> (Under Review)</strong>: Strengthened W3C WebDriver BiDi specification conformance by enforcing strict null list element rejection in both inbound and outbound serialization (<code>_bidi/serialization.py</code>), with 104/104 passing tests.</li>
         </ul>
       </p>
       <p>
@@ -216,27 +221,7 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="100%" valign="top">
-      <h4>📐 <a href="https://github.com/sympy/sympy">sympy/sympy</a> — <em>Computer Algebra System in Pure Python</em></h4>
-      <p>
-        <a href="https://github.com/sympy/sympy/pull/30851">
-          <img src="https://img.shields.io/badge/PR_%2330851-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #30851 Merged" />
-        </a>
-        <img src="https://img.shields.io/badge/Python-Math%20Core-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Core" />
-        <img src="https://img.shields.io/badge/Code%20Generation-Mathematica-ED1C24?style=flat-square" alt="Mathematica CodeGen" />
-      </p>
-      <p>
-        Contributed to <strong>SymPy</strong>:
-        <ul>
-          <li><strong><a href="https://github.com/sympy/sympy/pull/30851">PR #30851</a> (Merged into <code>master</code>)</strong>: Fixed code generation in the Mathematica code printer for <code>Heaviside</code>, <code>DiracDelta</code>, and <code>elliptic_f</code> special functions to emit valid syntax conformant with Wolfram Mathematica language specifications (<a href="https://github.com/sympy/sympy/commit/dbae2c1ec7b02cd751fffd4a32e1858c894ad69a"><code>dbae2c1</code></a>).</li>
-        </ul>
-      </p>
-      <p>
-        <code>Python</code> <code>SymPy</code> <code>Computer Algebra</code> <code>Code Generation</code> <code>Mathematica</code>
-      </p>
-    </td>
-  </tr>
+  
   <tr>
     <td width="100%" valign="top">
       <h4>⚡ Upstream Core Contributions in Progress</h4>
