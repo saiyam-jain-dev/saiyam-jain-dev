@@ -79,7 +79,7 @@
       <p><code>React</code> <code>Vite</code> <code>pdfjs-dist</code> <code>pdf-lib</code> <code>Tesseract.js (OCR)</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎬 <a href="https://github.com/saiyam-jain-dev/ReelAI---Free-Video-Maker-">ReelAI — AI Video Generator</a></h3>
+      <h3 align="center">🎬 <a href="https://github.com/saiyam-jain-dev/ReelAI---Free-Video-Maker-">ReelAI - AI Video Generator</a></h3>
       <p align="center">
         <a href="https://github.com/saiyam-jain-dev/ReelAI---Free-Video-Maker-"><strong>📂 GitHub Repository</strong></a>
       </p>
@@ -115,7 +115,7 @@
 <table>
   <tr>
     <td width="100%" valign="top">
-      <h4>⚛️ <a href="https://github.com/react/react-native">facebook/react-native</a> — <em>Meta Open Source</em></h4>
+      <h4>⚛️ <a href="https://github.com/react/react-native">facebook/react-native</a> - <em>Meta Open Source</em></h4>
       <p>
         <a href="https://github.com/react/react-native/pull/59458">
           <img src="https://img.shields.io/badge/PR_%2359458-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #59458 Merged" />
@@ -149,8 +149,14 @@
   </tr>
   <tr>
     <td width="100%" valign="top">
-      <h4>🌐 <a href="https://github.com/SeleniumHQ/selenium">SeleniumHQ/selenium</a> — <em>Official Browser Automation Framework</em></h4>
+      <h4>🌐 <a href="https://github.com/SeleniumHQ/selenium">SeleniumHQ/selenium</a> : <em>Official Browser Automation Framework</em></h4>
       <p>
+        <a href="https://github.com/SeleniumHQ/selenium/pull/18272">
+          <img src="https://img.shields.io/badge/PR_%2318272-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #18272 Merged" />
+        </a>
+        <a href="https://github.com/SeleniumHQ/selenium/pull/18240">
+          <img src="https://img.shields.io/badge/PR_%2318240-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #18240 Merged" />
+        </a>
         <a href="https://github.com/SeleniumHQ/selenium/pull/18239">
           <img src="https://img.shields.io/badge/PR_%2318239-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #18239 Merged" />
         </a>
@@ -166,32 +172,96 @@
         <a href="https://github.com/SeleniumHQ/selenium/pull/18237">
           <img src="https://img.shields.io/badge/PR_%2318237-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #18237 Merged" />
         </a>
-        <a href="https://github.com/SeleniumHQ/selenium/pull/18240">
-          <img src="https://img.shields.io/badge/PR_%2318240-Under_Review-238636?style=flat-square&logo=github&logoColor=white" alt="PR #18240 Under Review" />
-        </a>
         <img src="https://img.shields.io/badge/Python-WebDriver%20Core-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python WebDriver" />
+        <img src="https://img.shields.io/badge/JavaScript-BiDi%20Engine-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript BiDi" />
         <img src="https://img.shields.io/badge/RFC%206265-HTTP%20State%20Management-f97316?style=flat-square" alt="RFC 6265" />
         <img src="https://img.shields.io/badge/WebDriver%20BiDi-Serialization-00599C?style=flat-square" alt="WebDriver BiDi" />
       </p>
       <p>
-        Core contributor to the official <strong>Selenium</strong> browser automation framework with 5 pull requests merged directly into trunk by maintainer Corey Goldberg:
+        Core contributor to the official <strong>Selenium</strong> browser automation framework with 7 pull requests merged directly into trunk by maintainers:
         <ul>
+          <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18272">PR #18272</a> (Merged into <code>trunk</code>)</strong>: Validated declared numeric bounds during JavaScript BiDi serialization and deserialization, holding numbers to declared ranges (<a href="https://github.com/SeleniumHQ/selenium/commit/ac7a079680c4b51ad331f65570be92c5a7e5511c"><code>ac7a079</code></a>).</li>
+          <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18240">PR #18240</a> (Merged into <code>trunk</code>)</strong>: Enforced strict null list element rejection in both inbound and outbound BiDi protocol serialization (<a href="https://github.com/SeleniumHQ/selenium/commit/8a6aefc10e01a6d88bf2e42d318034918086b6e4"><code>8a6aefc</code></a>).</li>
           <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18239">PR #18239</a> (Merged into <code>trunk</code>)</strong>: Hardened <code>ErrorHandler.check_response()</code> in Python WebDriver against <code>TypeError</code> ("argument of type 'NoneType' is not iterable") and unhandled <code>KeyError</code> crashes when remote browser drivers return <code>None</code> or omit error dictionaries (<a href="https://github.com/SeleniumHQ/selenium/commit/652351eaef7a06da2e9fc9e32a688b75373a25cb"><code>652351e</code></a>).</li>
           <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18238">PR #18238</a> (Merged into <code>trunk</code>)</strong>: Aligned <code>APIRequestContext._cookie_matches()</code> domain and path matching with the RFC 6265 specification, implementing case-insensitive matching, optional leading dot handling across subdomains (§5.1.3), and trailing slash path resolution (§5.1.4) (<a href="https://github.com/SeleniumHQ/selenium/commit/e21558f2c7547ce42ed5db2c9ab15fbca8de2b84"><code>e21558f</code></a>).</li>
           <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18244">PR #18244</a> (Merged into <code>trunk</code>)</strong>: Added explicit <code>stacklevel=2</code> across remaining <code>warnings.warn()</code> calls so deprecation warnings accurately point to caller code, enabling project-wide Ruff <code>B028</code> enforcement (<a href="https://github.com/SeleniumHQ/selenium/commit/618cb92fe50d8257ab1cb3cecaf0273a0ba3fc78"><code>618cb92</code></a>).</li>
           <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18243">PR #18243</a> (Merged into <code>trunk</code>)</strong>: Implemented <code>__hash__</code> and explicit <code>ScriptKey</code> comparison contracts so pinned script identifiers can be stored in hash sets and mappings (<a href="https://github.com/SeleniumHQ/selenium/commit/ee6af75226f4d4180c7e50b879eb2dcf3b68aaf8"><code>ee6af75</code></a>).</li>
           <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18237">PR #18237</a> (Merged into <code>trunk</code>)</strong>: Corrected <code>ssl_proxy</code> descriptor usage during <code>Capabilities</code> initialization (<a href="https://github.com/SeleniumHQ/selenium/commit/10141c5af27c362b21f45add74b7052430704f30"><code>10141c5</code></a>).</li>
-          <li><strong><a href="https://github.com/SeleniumHQ/selenium/pull/18240">PR #18240</a> (Under Review)</strong>: Strengthened W3C WebDriver BiDi specification conformance by enforcing strict null list element rejection in both inbound and outbound serialization (<code>_bidi/serialization.py</code>), with 104/104 passing tests.</li>
-        </ul>
+          </ul>
       </p>
       <p>
-        <code>Python</code> <code>Selenium WebDriver</code> <code>RFC 6265</code> <code>W3C WebDriver BiDi</code> <code>Ruff</code> <code>PyTest</code> <code>Automation Testing</code>
+        <code>Python</code> <code>JavaScript</code> <code>Selenium WebDriver</code> <code>RFC 6265</code> <code>W3C WebDriver BiDi</code> <code>Ruff</code> <code>PyTest</code> <code>Automation Testing</code>
       </p>
     </td>
   </tr>
   <tr>
     <td width="100%" valign="top">
-      <h4>🔍 <a href="https://github.com/morluto/rea">morluto/rea</a> — <em>Reverse Engineer Anything</em></h4>
+      <h4>🐱 <a href="https://github.com/nestjs/nest">nestjs/nest</a> : <em>Progressive Node.js Framework</em></h4>
+      <p>
+        <a href="https://github.com/nestjs/nest/pull/18372">
+          <img src="https://img.shields.io/badge/PR_%2318372-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #18372 Merged" />
+        </a>
+        <img src="https://img.shields.io/badge/TypeScript-Enterprise%20Backend-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/NestJS-Core%20Engine-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS Core" />
+        <img src="https://img.shields.io/badge/@nestjs/platform--express-View%20Resolution-000000?style=flat-square&logo=express&logoColor=white" alt="Express Adapter" />
+      </p>
+      <p>
+        Official contributor to <strong>NestJS</strong>, the leading enterprise TypeScript/Node.js framework (67k+ stars):
+        <ul>
+          <li><strong><a href="https://github.com/nestjs/nest/pull/18372">PR #18372</a> (Merged into <code>master</code>)</strong>: Stripped trailing slashes when resolving view names in <code>@nestjs/platform-express</code> (<a href="https://github.com/nestjs/nest/commit/955099d8ccf9dc743c01df730c0ed4b629875242"><code>955099d</code></a>), ensuring view lookups like <code>@Render('users/')</code> correctly resolve to <code>users/index.ejs</code> instead of throwing malformed extension errors.</li>
+        </ul>
+      </p>
+      <p>
+        <code>TypeScript</code> <code>NestJS</code> <code>Node.js</code> <code>Express</code> <code>Jest</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h4>🐠 <a href="https://github.com/babel/babel">babel/babel</a> : <em>The Compiler for Next Generation JavaScript</em></h4>
+      <p>
+        <a href="https://github.com/babel/babel/pull/18437">
+          <img src="https://img.shields.io/badge/PR_%2318437-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #18437 Merged" />
+        </a>
+        <img src="https://img.shields.io/badge/Babel-Core%20Generator-F9DC3E?style=flat-square&logo=babel&logoColor=black" alt="Babel Generator" />
+        <img src="https://img.shields.io/badge/TypeScript-AST%20Preservation-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript AST" />
+        <img src="https://img.shields.io/badge/Compiler-Production%20Pipeline-22c55e?style=flat-square" alt="Compiler Pipeline" />
+      </p>
+      <p>
+        Contributed to Babel's core code generator (<code>@babel/generator</code>), diagnosing and fixing an AST generation flaw:
+        <ul>
+          <li><strong><a href="https://github.com/babel/babel/pull/18437">PR #18437</a> (Merged into <code>main</code>)</strong>: Preserved the type modifier in <code>TSImportEqualsDeclaration</code> inside Babel's code generator (<a href="https://github.com/babel/babel/commit/1db553f5e901908257c0406d873077e94c04cc6d"><code>1db553f</code></a>), ensuring TypeScript syntax output fidelity (fixes #18357).</li>
+        </ul>
+      </p>
+      <p>
+        <code>JavaScript</code> <code>TypeScript</code> <code>Babel AST</code> <code>Generator</code> <code>Compilers</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h4>🐍 <a href="https://github.com/sympy/sympy">sympy/sympy</a> : <em>Computer Algebra System in Pure Python</em></h4>
+      <p>
+        <a href="https://github.com/sympy/sympy/pull/30851">
+          <img src="https://img.shields.io/badge/PR_%2330851-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #30851 Merged" />
+        </a>
+        <img src="https://img.shields.io/badge/Python-Symbolic%20Math-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Symbolic Math" />
+        <img src="https://img.shields.io/badge/Mathematica-Code%20Printer-D32F2F?style=flat-square" alt="Mathematica Printer" />
+      </p>
+      <p>
+        Contributed to <strong>SymPy</strong>, the Python library for symbolic mathematics:
+        <ul>
+          <li><strong><a href="https://github.com/sympy/sympy/pull/30851">PR #30851</a> (Merged into <code>master</code>)</strong>: Fixed <code>Heaviside</code> and <code>DiracDelta</code> formatting in Mathematica code printing, and corrected <code>elliptic_f</code> mapping to <code>EllipticF</code> in the Mathematica printer (<a href="https://github.com/sympy/sympy/commit/dbae2c1ec7b02cd751fffd49eb064b2a7ad075e6"><code>dbae2c1</code></a>).</li>
+        </ul>
+      </p>
+      <p>
+        <code>Python</code> <code>SymPy</code> <code>Symbolic Mathematics</code> <code>Mathematica Printer</code> <code>PyTest</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h4>🔍 <a href="https://github.com/morluto/rea">morluto/rea</a> - <em>Reverse Engineer Anything</em></h4>
       <p>
         <a href="https://github.com/morluto/rea/pull/6973">
           <img src="https://img.shields.io/badge/PR_%236973-Merged-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #6973 Merged" />
@@ -267,7 +337,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-saiyam--jain--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saiyam-jain-dev)
 
   <p align="center">
-    <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
+    <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
   </p>
 
 </div>
